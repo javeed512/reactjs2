@@ -8,7 +8,7 @@ public class Demo {
 		System.out.println("Hello friends");
 		System.out.println("Welcome");
 		System.out.println("let's go");
-		System.out.pritln("Modificatiion");
+		System.out.println("Modificatiion");
 		
 		
 
